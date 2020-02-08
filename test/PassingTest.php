@@ -10,6 +10,4 @@ class PassingTest extends TestCase
     {
         $this->assertTrue(true);
     }
-
-
 }
