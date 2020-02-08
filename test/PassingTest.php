@@ -14,7 +14,7 @@ class PassingTest extends TestCase
     public function testAntherPassing()
     {
         $this->assertFalse(false);
-
+        $this->assertFalse(false);
     }
 
 
