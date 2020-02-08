@@ -1,3 +1,3 @@
 tcr:
-	./vendor/bin/phpunit && commit -am "WIP" || git reset --hard
+	./vendor/bin/phpunit && git commit -am "WIP" || git reset --hard
 
