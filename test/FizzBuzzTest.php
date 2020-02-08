@@ -14,5 +14,11 @@ class FizzBuzzTest extends TestCase
         $this->assertEquals($input, $output);
     }
 
+    public function testFizzNumbers()
+    {
+        $input = [3,6,9];
+        $output = \Braddle\FizzBuzz::run($input);
 
+        $this->assertEquals(["fizz", "fizz", "fizz"], $output);
+    }
 }
