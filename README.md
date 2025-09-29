@@ -40,7 +40,7 @@ composer install
 ./tcr
 ````
 
-### About The Engineering Coach
+## About The Engineering Coach
 
 The Engineering Coach is a YouTube channel dedicated to helping software engineers and engineering managers improve their skills and craft. We provide practical advice and tutorials on topics that matter in the real world of software development.
 
